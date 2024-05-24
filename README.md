@@ -1,16 +1,22 @@
-## Hi there 👋
+<center><h1> Olá, Eu Sou Matheus Motta 👋 </h1></center>
 
-<!--
-**mmmmattos13/mmmmattos13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim 👽
 
-Here are some ideas to get you started:
+Sou Técnico de Manutenção de Computadores. Tenho paixão por desenvolvimento de software. No meu tempo livre, gosto de ler, ficar com a minha família e treinar musculação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades 💻
+
+- **Linguagens de Programação:** JavaScript, Python. 
+- **Frameworks e Bibliotecas:** React Native, Django.
+- **Ferramentas e Tecnologias:** Git, Docker.
+
+## Educação 📗
+
+- **[Análise e Desenvolvimento de Sistemas]** - [Instituto Federal de Ciência e Tecnologia de São Paulo], [2024]
+- **[Programação e Desenvolvimento de Sistemas]** - [Instituto Federal de Ciência e Tecnologia de São Paulo], [2009]
+
+
+## Contato 📍
+
+- **Email:** [Entre em contato comigo](mmmattos13@gmail.com)
+- **LinkedIn:** [Acesse meu Linkedin](https://www.linkedin.com/in/matheus-motta-8ab782210/)
