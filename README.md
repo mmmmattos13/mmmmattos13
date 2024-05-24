@@ -12,8 +12,8 @@ Sou Técnico de Manutenção de Computadores. Tenho paixão por desenvolvimento 
 
 ## Educação 📗
 
-- **[Análise e Desenvolvimento de Sistemas]** - [Instituto Federal de Ciência e Tecnologia de São Paulo], [2024]
-- **[Programação e Desenvolvimento de Sistemas]** - [Instituto Federal de Ciência e Tecnologia de São Paulo], [2009]
+- **Análise e Desenvolvimento de Sistemas** - [Instituto Federal de Ciência e Tecnologia de São Paulo], [2024]
+- **Programação e Desenvolvimento de Sistemas** - [Instituto Federal de Ciência e Tecnologia de São Paulo], [2009]
 
 
 ## Contato 📍
